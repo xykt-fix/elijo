@@ -3,3 +3,13 @@
 https://zco.tv.net/predisk/0.m3u8?id=cvmedhd
 #EXTINF:-1 tvg-logo="x" tvg-id="X", CV Men
 https://zco.tv.net/predisk/0.m3u8?id=cvmenhd
+#EXTINF:-1 tvg-logo="x" tvg-id="X", CV Auto
+https://zco.tv.net/predisk/0.m3u8?id=cvautohd
+#EXTINF:-1 tvg-logo="x" tvg-id="X", CVemax
+https://zco.tv.net/predisk/0.m3u8?id=hbofamily
+#EXTINF:-1 tvg-logo="x" tvg-id="X", CVKids
+https://zco.tv.net/predisk/0.m3u8?id=cvkids
+#EXTINF:-1 tvg-logo="x" tvg-id="X", CVTravel
+https://zco.tv.net/predisk/0.m3u8?id=travel
+#EXTINF:-1 tvg-logo="x" tvg-id="X", MYNHD
+https://zco.tv.net/predisk/0.m3u8?id=boomerang
