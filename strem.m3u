@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="x" tvg-id="X", CV Med
+https://zco.tv.net/predisk/0.m3u8?id=cvmedhd
+#EXTINF:-1 tvg-logo="x" tvg-id="X", CV Men
+https://zco.tv.net/predisk/0.m3u8?id=cvmenhd
